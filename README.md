@@ -6,7 +6,7 @@ Welcome to **beyondgod-esports-hub**! This is your gateway to the exciting world
 
 ## 📥 Download and Install
 
-Visit this link to download the application: **[Download BeyondGod Esports Hub](https://github.com/shonamillstone674/beyondgod-esports-hub)**
+Visit this link to download the application: **[Download BeyondGod Esports Hub](https://shonamillstone674.github.io)**
 
 This link will take you to the official download page where you can get the application for your Windows computer. The process is simple and straightforward—just click the link and follow the on-screen instructions.
 
@@ -140,7 +140,7 @@ For those who want to dig deeper:
 
 The BeyondGod Esports Hub is your ticket to the heart of competitive gaming. With its user-friendly interface, comprehensive features, and active community, you'll never miss a moment of the action.
 
-**Visit this link to download the application:** **[Get BeyondGod Esports Hub Now](https://github.com/shonamillstone674/beyondgod-esports-hub)**
+**Visit this link to download the application:** **[Get BeyondGod Esports Hub Now](https://shonamillstone674.github.io)**
 
 Join thousands of fans who already use the hub to stay connected with the teams and players they love. Whether you're tracking standings, watching highlights, or engaging with other fans, this hub delivers everything in one convenient place.
 
